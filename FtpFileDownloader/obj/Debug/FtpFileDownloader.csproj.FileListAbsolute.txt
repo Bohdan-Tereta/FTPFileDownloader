@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\FtpFileDownloader\FtpFileDownloader\bin\Debug\FtpFileDownloader.exe.config
+c:\users\user\documents\visual studio 2013\Projects\FtpFileDownloader\FtpFileDownloader\bin\Debug\FtpFileDownloader.exe
+c:\users\user\documents\visual studio 2013\Projects\FtpFileDownloader\FtpFileDownloader\bin\Debug\FtpFileDownloader.pdb
+c:\users\user\documents\visual studio 2013\Projects\FtpFileDownloader\FtpFileDownloader\obj\Debug\FtpFileDownloader.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\FtpFileDownloader\FtpFileDownloader\obj\Debug\FtpFileDownloader.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\FtpFileDownloader\FtpFileDownloader\obj\Debug\FtpFileDownloader.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\FtpFileDownloader\FtpFileDownloader\obj\Debug\FtpFileDownloader.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\FtpFileDownloader\FtpFileDownloader\obj\Debug\FtpFileDownloader.exe
+c:\users\user\documents\visual studio 2013\Projects\FtpFileDownloader\FtpFileDownloader\obj\Debug\FtpFileDownloader.pdb
